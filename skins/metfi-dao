@@ -1,0 +1,10 @@
+.metfi-dao {
+    --primary-color: #00e2fd;
+    --bg-color: #1f202e;
+    --text-color: #fff;
+    --link-color:#00e2fd;
+    --heading-color: #fff;
+    --border-color: #151620;
+    --header-bg: #151620;
+    --block-bg: 262738;
+  }
